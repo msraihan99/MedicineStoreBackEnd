@@ -14,6 +14,8 @@
 	<version>0.0.1-SNAPSHOT</version>
 	<name>medicineStoreManagement</name>
 	<description>Medicine Store Management System</description>
+	<packaging>jar</packaging>
+
 	<url />
 	<licenses>
 		<license />
